@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Raad
 - 👀 I’m interested in coding!
-- 🌱 I’m currently learning css
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me idk
+- 🌱 I’m currently learning reactjs
+- 💞️ I’m looking to collaborate on discord bots
+- 📫 My only goal to make my bot available to other and help them to make new one.
 
 <!---
 Raad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
